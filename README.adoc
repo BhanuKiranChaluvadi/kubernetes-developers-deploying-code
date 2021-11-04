@@ -1,2 +1,21 @@
-Kubernetes for Developors : Deploying you code
-    - By Dan Wahlin
+:imagesdir: images
+:couchbase_version: current
+:toc:
+:project_id: gs-how-to-cmake
+:icons: font
+:source-highlighter: prettify
+:tags: guides,meta
+
+= Getting started with kubernetes
+
+== Introduction
+
+This is part of the course work from pluralsight by Dan Wahlin
+You can find his github page 
+
+    * https://github.com/DanWahlin/DockerAndKubernetesCourseCode[DockerAndKubernetesCourseCode] 
+    * https://github.com/kubernetes/examples[kubernetes official examples]
+
+Other Webpages
+
+    * https://crontab.guru[crontab]

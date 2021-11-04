@@ -1,0 +1,55 @@
+{
+  "FilePath": "/Users/bkch/git/kubernetes-developers-deploying-code/04-performing-canary-deployments/canary/stable-app/stable-app.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "stable_app",
+  "Documents": [
+    {
+      "FilePath": "/Users/bkch/git/kubernetes-developers-deploying-code/04-performing-canary-deployments/canary/stable-app/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bkch/git/kubernetes-developers-deploying-code/04-performing-canary-deployments/canary/stable-app/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bkch/git/kubernetes-developers-deploying-code/04-performing-canary-deployments/canary/stable-app/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bkch/git/kubernetes-developers-deploying-code/04-performing-canary-deployments/canary/stable-app/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bkch/git/kubernetes-developers-deploying-code/04-performing-canary-deployments/canary/stable-app/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bkch/git/kubernetes-developers-deploying-code/04-performing-canary-deployments/canary/stable-app/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/bkch/git/kubernetes-developers-deploying-code/04-performing-canary-deployments/canary/stable-app/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

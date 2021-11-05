@@ -15,7 +15,10 @@ You can find his github page
 
     * https://github.com/DanWahlin/DockerAndKubernetesCourseCode[DockerAndKubernetesCourseCode] 
     * https://github.com/kubernetes/examples[kubernetes official examples]
+    * https://kubernetes.io[kubernetes]
+    * https://kubernetes.io/docs/home/[kubernetes home]
 
 Other Webpages
 
     * https://crontab.guru[crontab]
+    * https://github.com/kubernetes/dashboard[kubernetes dashboard]
